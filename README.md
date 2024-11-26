@@ -57,23 +57,6 @@ Develop a regression model to predict:
 
 ---
 
-## How to Use
-
-### 1. Preprocessing
-Run the provided Python scripts to:
-- Process the dataset.
-- Convert categorical variables into numerical representations.
-- Split the data into training and testing sets.
-
-### 2. Model Training
-Train the machine learning model using the script. Predictions and metrics are saved into CSV files.
-
-### 3. Visualization in Power BI
-- Import the prediction and actual score files into Power BI.
-- Use scatter plots, bar charts, and histograms to analyze the results.
-
----
-
 ## Dependencies
 
 - Python 3.x
