@@ -86,5 +86,6 @@ Train the machine learning model using the script. Predictions and metrics are s
 
 - Experiment with advanced algorithms like Gradient Boosting or Neural Networks.
 - Add more features to improve prediction accuracy.
+- Improve interactive Power BI dashboard.
 
 
